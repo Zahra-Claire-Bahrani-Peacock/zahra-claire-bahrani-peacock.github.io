@@ -3,6 +3,13 @@ layout: post
 title: Introducing Hyde
 ---
 
+Hi and welcome to my website. My name is Zahra-Claire Bahrani-Peacock and I am a translator for German and Spanish into English. 
+
+Just contact me should you have any questions.
+
+[Facebook](https://www.facebook.com/zaza.bahranipeacock)
+[Linkedin](www.linkedin.com/in/zahra-claire-bahrani-peacock)
+
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
