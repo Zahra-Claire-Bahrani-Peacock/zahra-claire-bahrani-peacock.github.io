@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+Hi, my name is Zahra-Claire Bahrani-Peacock and I am a translator for German and Spanish into English. 
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
