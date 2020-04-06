@@ -5,7 +5,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            English Translator - Z-C Bahrani-Peacock
+title:            Translations
 tagline:          'Professional service'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hyde.getpoole.com
@@ -13,7 +13,7 @@ baseurl:          /
 
 author:
   name:           'Zahra-Claire Bahrani-Peacock'
-  url:            https://twitter.com/mdo
+  url:            https://www.linkedin.com/in/zahra-claire-bahrani-peacock
 
 paginate:         5
 
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/Zahra-Claire-Bahrani-Peacock/Zahra-Claire-Bahrani-Peacock.github.io
