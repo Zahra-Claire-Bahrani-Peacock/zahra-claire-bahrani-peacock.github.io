@@ -183,7 +183,7 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
-  color: #ffffff;
+  color: rgb(76, 0, 255);
 }
 
 /* Orange */
