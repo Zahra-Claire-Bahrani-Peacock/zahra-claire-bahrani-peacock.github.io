@@ -5,10 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Zahra
 tagline:          'Peacock translations'
-description:      'Sworn & State-Certified  
-Translator  
-Interpreter  
-Proofreader'
+description:      'Sworn & State-Certified &middot; Translator &middot; Interpreter &middot; Proofreader'
 url:              https://peacock-translations.github.io/
 baseurl:          /
 
