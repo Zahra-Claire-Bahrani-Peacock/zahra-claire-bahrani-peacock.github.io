@@ -2,10 +2,13 @@
 layout: page
 title: Contact
 ---
+  
 
+  
 Zahra-Claire Bahrani-Peacock  
 Calle Nuzas 22  
-29010 Malaga
+29010 Malaga  
+Spain
 
 Phone: <a href="tel:34600650177"  target="_blank">+34 600 65 01 77</a>  
 Whattsapp: <a href="https://api.whatsapp.com/send?phone=447428610493&text=Hi%20Zahra" target="_blank">+44 (0)7428 610493</a>  
