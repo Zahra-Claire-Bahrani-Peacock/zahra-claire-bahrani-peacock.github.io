@@ -14,14 +14,13 @@ Fields of expertise: Economics & Business, Localization, terminology management
 
 Member of the German translators and interpreters association Bundesverband der Dolmetscher und Übersetzer (BDÜ) (in turn a member of the FIT)
 
-Appointed as court translator and interpreter (Regional Court of Munich I):
+Appointed as court translator and interpreter (Regional Court of Munich I):  
 Translator and Interpreter:  2020
 
 Graduated from Munich’s Municipal Foreign Languages Institute (FIM): 
-
-Area of expertise: Economics
-2nd foreign language: Spanish
-Translator:   2018  Overall grade: 1.69 (German system 1= very good)
+Area of expertise: Economics  
+2nd foreign language: Spanish  
+Translator:   2018  Overall grade: 1.69 (German system 1= very good)  
 Interpreter:  2018  Overall grade: 1.04
 
 Other languages
