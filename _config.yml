@@ -6,9 +6,9 @@ highlighter:      rouge
 title:            Zahra
 tagline:          'Peacock translations'
 description:      'Sworn & State-Certified
-Translator
-Proofreader
-Interpreter'
+<p>Translator</p>
+<p>Proofreader</p>
+<p>Interpreter</p>'
 url:              https://peacock-translations.github.io/
 baseurl:          /
 
