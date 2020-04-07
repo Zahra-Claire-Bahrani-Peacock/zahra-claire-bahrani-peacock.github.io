@@ -8,7 +8,7 @@ Zahra-Claire Bahrani-Peacock’s General Terms of Business for Translation or Pr
 
 By accepting the quote verbally, in writing or through payment, you agree to the following Terms of Business as displayed in the document held by Zahra Claire Bahrani Peacock.
 
-1. Definitions and Interpretation
+**1. Definitions and Interpretation**
    1. Definitions
       In this Agreement, unless the context otherwise requires, the following expressions shall be given the following meanings:  
       ‘Agreement’ means these standard terms of business.  
