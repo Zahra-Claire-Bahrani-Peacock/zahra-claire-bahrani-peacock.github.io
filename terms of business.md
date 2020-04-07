@@ -11,6 +11,7 @@ By accepting the quote verbally, in writing or through payment, you agree to the
 1. Definitions and Interpretation
    1. Definitions
    In this Agreement, unless the context otherwise requires, the following expressions shall be given the following meanings:
+   
    ‘Agreement’ means these standard terms of business.
    ‘Assignment’ means the period during which a Translator performs services or carries out work for or on behalf of the Client or as otherwise agreed between the Client and the Translator, commencing at the time the Translator first starts such work and services and ending upon the cessation by the Translator of all such work and services.
    ‘Client’ means the Party commissioning a Translation in the normal course of business.
@@ -104,25 +105,26 @@ By accepting the quote verbally, in writing or through payment, you agree to the
    4. If a dispute cannot be resolved amicably between the Parties, or if either Party refuses to accept arbitration, the Parties shall be subject to the exclusive jurisdiction of the Courts of England and Wales. In any event this Agreement shall be construed in accordance with English law.
 
 10. Responsibility and Liability
-   1. The Translation Task shall be carried out by the Translator using reasonable skill and care and in accordance with the provisions and spirit of the Code of Professional Conduct of the Institute of Translation and Interpreting.
-   2. Time and expense permitting, the Translator shall use his or her reasonable commercial endeavours to do the work to the best of his or her ability, knowledge and belief, and consulting such authorities as are reasonably available to him/her at the time.
-   3. Subject to clause 10.4, a Translation shall be fit for its stated purpose and target readership, and the level of quality specified.
-   4. Unless specified otherwise, Translations shall be deemed to be of "for information" quality only.
-   5. Nothing in this Agreement shall be construed as seeking to restrict a Party’s liability for personal injury or death arising from its own negligence.
-   6. Subject to clause 10.5, the liability of the Translator under or in respect of this Agreement, whether in tort, contract or otherwise, shall be limited to the cost of the Translation Task being undertaken when the liability arises.
-   7. Neither Party shall be liable to the other in respect of any consequential or indirect loss whatsoever.
+    1. The Translation Task shall be carried out by the Translator using reasonable skill and care and in accordance with the provisions and spirit of the Code of Professional Conduct of the Institute of Translation and Interpreting.
+    2. Time and expense permitting, the Translator shall use his or her reasonable commercial endeavours to do the work to the best of his or her ability, knowledge and belief, and consulting such authorities as are reasonably available to him/her at the time.
+    3. Subject to clause 10.4, a Translation shall be fit for its stated purpose and target readership, and the level of quality specified.
+    4. Unless specified otherwise, Translations shall be deemed to be of "for information" quality only.
+    5. Nothing in this Agreement shall be construed as seeking to restrict a Party’s liability for personal injury or death arising from its own negligence.
+    6. Subject to clause 10.5, the liability of the Translator under or in respect of this Agreement, whether in tort, contract or otherwise, shall be limited to the cost of the Translation Task being undertaken when the liability arises.
+    7. Neither Party shall be liable to the other in respect of any consequential or indirect loss whatsoever.
 
 11. Unfair Competition
-   1. Subject to clause 11.2, where in the course of business the Translator’s Client is an intermediary and introduces the Translator to a Third Party work-provider, the Translator shall not knowingly, for a period of 6 months from return of the last Translation Task arising from the introduction, approach the said Third Party for the purpose of soliciting work, nor work for the Third Party in any capacity involving translation, without the Client’s written consent.
-   2. The restrictions in clause 11.1 shall not apply where:
-     - the Third Party work-provider has had previous dealings with the Translator, or
-     - the Translator acts on the basis of information in the public domain, or
-     - the approach from the Third Party is independent of the relationship with the intermediary, or
-     - the approach to the Third Party arises as the result of broad-band advertising, or
-     - the Third Party is seeking suppliers on the open market, or the intermediary only makes isolated use of the Translator’s services.
+    1. Subject to clause 11.2, where in the course of business the Translator’s Client is an intermediary and introduces the Translator to a Third Party work-provider, the Translator shall not knowingly, for a period of 6 months from return of the last Translation Task arising from the introduction, approach the said Third Party for the purpose of soliciting work, nor work for the Third Party in any capacity involving translation, without the Client’s written consent.
+    2. The restrictions in clause 11.1 shall not apply where:
+       - the Third Party work-provider has had previous dealings with the Translator, or
+       - the Translator acts on the basis of information in the public domain, or
+       - the approach from the Third Party is independent of the relationship with the intermediary, or
+       - the approach to the Third Party arises as the result of broad-band advertising, or
+       - the Third Party is seeking suppliers on the open market, or the intermediary only makes isolated use of the Translator’s services.
+
 12. Applicability and Integrity
-   1. This Agreement shall come into effect either when the Client commences delivery of the Source Material; or when the Translator provides any services under the Agreement, whichever is the earlier.
-   2. This Agreement should be read in conjunction with the Code of Professional Conduct of the Institute of Translation and Interpreting.
-   3. This Agreement may be subject to any detailed requirements or variants expressly specified in the order relating to a particular Translation Task.
-   4. No waiver of any breach of any condition in this Agreement shall be considered as a waiver of any subsequent breach of the same or any other provision.
+    1. This Agreement shall come into effect either when the Client commences delivery of the Source Material; or when the Translator provides any services under the Agreement, whichever is the earlier.
+    2. This Agreement should be read in conjunction with the Code of Professional Conduct of the Institute of Translation and Interpreting.
+    3. This Agreement may be subject to any detailed requirements or variants expressly specified in the order relating to a particular Translation Task.
+    4. No waiver of any breach of any condition in this Agreement shall be considered as a waiver of any subsequent breach of the same or any other provision.
 
