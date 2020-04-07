@@ -3,12 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Z-C
-tagline:          'Personalised Service'
-description:      'Sworn Translator & Interpreter
-Proofreader 
-<a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock">Zahra-Claire Bahrani-Peacock</a>'
-url:              http://zahra-claire-bahrani-peacock.github.io/
+title:            Zahra
+tagline:          'Peacock translations'
+description:      'Sworn & State-Certified
+<br>Translator
+<br>Proofreader
+<br>Interpreter
+url:              https://peacock-translations.github.io/
 baseurl:          /
 
 author:
@@ -21,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/Zahra-Claire-Bahrani-Peacock/
+  repo:           https://github.com/peacock-translations/
