@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Why did I become a translator and interpreter?  
+*Why did I become a translator and interpreter?*  
 
 Growing up bilingual meant that I have always had contact with other cultures. My passion for languages grew from these experiences and my desire to facilitate communication between people who could otherwise not understand each other.
 
