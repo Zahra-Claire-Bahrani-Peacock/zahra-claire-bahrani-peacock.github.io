@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Home
 ---
 <div align="center">Traductora e Interprete certificada por el estado, jurada y designada públicamente<br/>
 (Tribunal Regional de Múnich I)</div>
