@@ -17,21 +17,21 @@ By accepting the quote verbally, in writing or through payment, you agree to the
       
       <u>‘Agreement’</u> means these standard terms of business.  
 
-      ‘Assignment’ means the period during which a Translator performs services or carries out work for or on behalf of the Client or as otherwise agreed between the Client and the Translator, commencing at the time the Translator first starts such work and services and ending upon the cessation by the Translator of all such work and services.  
+      <u>‘Assignment’</u> means the period during which a Translator performs services or carries out work for or on behalf of the Client or as otherwise agreed between the Client and the Translator, commencing at the time the Translator first starts such work and services and ending upon the cessation by the Translator of all such work and services.  
 
-      ‘Client’ means the Party commissioning a Translation in the normal course of business.  
+      <u>‘Client’</u> means the Party commissioning a Translation in the normal course of business.  
 
-      ‘Confidential Material’ means any sensitive or private information with regard to the Client or their business.  
+      <u>‘Confidential Material’</u> means any sensitive or private information with regard to the Client or their business.  
 
-      ‘Source Material’ means any text or other medium provided by the Client to the Translator and which contains a communication which has to be translated, and may comprise text, sound and/or images.  
+      <u>‘Source Material’</u> means any text or other medium provided by the Client to the Translator and which contains a communication which has to be translated, and may comprise text, sound and/or images.  
 
-      ‘Translator’ means the Party providing a Translation in the normal course of business. The Translator shall normally be the creator of a Translation unless the Client has been explicitly informed that the Translation Task will be subcontracted, or the Translator customarily trades as an intermediary.  
+      <u>‘Translator’</u> means the Party providing a Translation in the normal course of business. The Translator shall normally be the creator of a Translation unless the Client has been explicitly informed that the Translation Task will be subcontracted, or the Translator customarily trades as an intermediary.  
 
-      ‘Translation Task’ means the preparation of a Translation or any other translation-related task such as revising, editing, etc., which calls upon the translation skills of a Translator.  
+      <u>‘Translation Task’</u> means the preparation of a Translation or any other translation-related task such as revising, editing, etc., which calls upon the translation skills of a Translator.  
 
-      ‘Translation’ means the commissioned work produced by the Translator.  
+      <u>‘Translation’</u> means the commissioned work produced by the Translator.  
 
-      ‘Third Party’ means any party who is not a party to this Agreement.
+      <u>‘Third Party’</u> means any party who is not a party to this Agreement.
 
    2. Interpretation  
 
