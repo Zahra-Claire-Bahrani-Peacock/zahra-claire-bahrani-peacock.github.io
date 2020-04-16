@@ -15,6 +15,6 @@ Email: <a href="mailto:z-c@live.co.uk" target="_blank">z-c@live.co.uk</a>
 I look forward to working with you.
 <br/>
 <br/>
-<div align="center" {font-size:x-small;}> Zahra-Claire Bahrani-Peacock</div>
-<div align="center" {font-size:x-small;}>Calle Nuzas 22 &middot; 29010 Malaga &middot; Spain</div>
-<div align="center" {font-size:x-small;}><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/">Linkedin</a> &middot; <a href="https://github.com/Zahra-Claire-Bahrani-Peacock/">GitHub</a></div>
+<div align="center" { font-size:x-small; }> Zahra-Claire Bahrani-Peacock</div>
+<div align="center" { font-size:x-small; }>Calle Nuzas 22 &middot; 29010 Malaga &middot; Spain</div>
+<div align="center" { font-size:x-small; }><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/">Linkedin</a> &middot; <a href="https://github.com/Zahra-Claire-Bahrani-Peacock/">GitHub</a></div>
