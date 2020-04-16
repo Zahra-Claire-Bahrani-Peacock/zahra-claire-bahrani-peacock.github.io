@@ -18,15 +18,14 @@ Having worked part-time as a translator and interpreter since 2017, I decided to
 <br/>
 Experiencing first-hand and from a young age the problems that people face when they do not speak the same language, my passion has always been to overcome these barriers, to make communication possible, to help people of different cultures be successful in communicating with other.  
 <br/>
-Fields of expertise: economics, business, equine industry, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation
+<b>Fields of expertise:</b> economics, business, equine industry, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation
 <br/>
-Member of the German translators and interpreters association Bundesverband der Dolmetscher und Übersetzer (BDÜ) (in turn a member of the FIT)  
+<b>Member of the German translators and interpreters association Bundesverband der Dolmetscher und Übersetzer (BDÜ) (in turn a member of the <a href="https://www.fit-ift.org/">FIT</a>)</b>  
 <br/>
-Appointed as court translator and interpreter (Regional Court of Munich I): 2020  
+<b>Appointed as court translator and interpreter (Regional Court of Munich&nbsp;I): 2020</b>  
 <br/>
-Graduated from Munich’s Municipal Foreign Languages Institute (FIM):  
-<br/>
-Area of expertise:  Business  
-2nd foreign language: Spanish  
-Translator:  2018  Overall grade: 1.91 (German system 1= very good)  
-Interpreter:  2018  Overall grade: 2.31
+<b>Graduated from Munich’s Municipal Foreign Languages Institute (FIM):</b>  
+<b>Area of expertise:</b>  Business  
+<b>2nd foreign language:</b> Spanish  
+<b>Translator:</b>  2018  Overall grade: 1.69 (German system 1= very good)  
+<b>Interpreter:</b>  2018  Overall grade: 1.04
