@@ -2,7 +2,6 @@
 layout: default
 title: About
 ---
-<br/> 
 <div align="center">Staatlich geprüfte, öffentlich bestellte und beeidigte Übersetzerin und Dolmetscherin für die englische Sprache<br/>
 (Landgericht München I)</div>
 <br/>
