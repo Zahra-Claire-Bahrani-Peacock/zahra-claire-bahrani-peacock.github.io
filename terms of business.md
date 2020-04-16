@@ -13,7 +13,7 @@ By accepting the quote verbally, in writing or through payment, you agree to the
 
       In this Agreement, unless the context otherwise requires, the following expressions shall be given the following meanings:  
       
-      ‘Agreement’ means these standard terms of business.  
+      <u>‘Agreement’</u> means these standard terms of business.  
 
       ‘Assignment’ means the period during which a Translator performs services or carries out work for or on behalf of the Client or as otherwise agreed between the Client and the Translator, commencing at the time the Translator first starts such work and services and ending upon the cessation by the Translator of all such work and services.  
 
