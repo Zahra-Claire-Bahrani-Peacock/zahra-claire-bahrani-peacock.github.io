@@ -2,7 +2,8 @@
 layout: default
 title: Terms of Business
 ---
-**Terms of Business**
+**Terms of Business**  
+
 Institute of Translation & Interpreting
 
 Zahra-Claire Bahrani-Peacock’s General Terms of Business for Translation or Proofreading Work
