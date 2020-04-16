@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 ---
 <br/> 
@@ -12,9 +12,9 @@ title: About
 Calle Nuzas 22  
 29010 Málaga, España</div>
 <br/>
-Móvil: <a href="tel:34600650177"  target="_blank">+34 600 65 01 77</a>  
+<div align="center">Móvil: <a href="tel:34600650177"  target="_blank">+34 600 65 01 77</a>  
 Whattsapp: <a href="https://api.whatsapp.com/send?phone=447428610493&text=Hi%20Zahra" target="_blank">+44 (0)7428 610493</a>  
-Email: <a href="mailto:z-c@live.co.uk" target="_blank">z-c@live.co.uk</a>
+Email: <a href="mailto:z-c@live.co.uk" target="_blank">z-c@live.co.uk</a></div>
 <br/>
 <br/>
 <div align="center">Escríbeme un correo electrónico o simplemente llámame. Estaré encantada de conocerte y ayudarte con lo que sea. </div>
