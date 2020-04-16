@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Zahra
 tagline:          'Home'
-description:      'Translation<br/>Proofreading<br/>Interpreting<br/>Localisation'
+description:      'Translation &middot; Proofreading<br/>Interpreting &middot; Localisation'
 url:              https://zahra-claire-bahrani-peacock.github.io/
 baseurl:          /
 
