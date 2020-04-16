@@ -2,11 +2,7 @@
 layout: default
 title: Terms of Business
 ---
-<head>
-   <link rel="canonical" href="/terms-of-business"/>
-</head>
-
-**Terms of Business**  
+{ font-size: 120% } **Terms of Business**  
 
 Institute of Translation & Interpreting
 
