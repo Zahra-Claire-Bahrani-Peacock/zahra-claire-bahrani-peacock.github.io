@@ -24,8 +24,6 @@ Experiencing first-hand and from a young age the problems that people face when 
 <br/>
 <b>Appointed as court translator and interpreter (Regional Court of Munich&nbsp;I):</b> 2020
 <br/>
-<b>Graduated from Munich’s Municipal Foreign Languages Institute (FIM):</b>  
+<b>Graduated from Munich’s Municipal Foreign Languages Institute (FIM):</b> 2018  
 <b>Area of expertise:</b> Economics  
 <b>2nd foreign language:</b> Spanish  
-<b>Translator:</b> 2018  Overall grade: 1.69 (German system 1= very good)  
-<b>Interpreter:</b> 2018  Overall grade: 1.04
