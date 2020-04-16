@@ -2,7 +2,7 @@
 layout: default
 title: Terms of Business
 ---
-{ font-size: 120% } **Terms of Business**  
+<div>{ font-size: 120% } **Terms of Business**  </div>
 
 Institute of Translation & Interpreting
 
