@@ -20,7 +20,7 @@ Experiencing first-hand and from a young age the problems that people face when 
 <br/>
 <b>Fields of expertise:</b> economics, business, equine industry, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation
 <br/>
-<b>Member of the German translators and interpreters association Bundesverband der Dolmetscher und Übersetzer (BDÜ) (in turn a member of the <a href="https://www.fit-ift.org/">FIT</a>)</b>  
+<b>Member of the German translators and interpreters association <a href="https://bdue.de/der-bdue/">Bundesverband der Dolmetscher und Übersetzer (BDÜ)</a> (in turn a member of the <a href="https://www.fit-ift.org/">FIT</a>)</b>  
 <br/>
 <b>Appointed as court translator and interpreter (Regional Court of Munich&nbsp;I): 2020</b>  
 <br/>
