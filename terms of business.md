@@ -2,6 +2,10 @@
 layout: default
 title: Terms of Business
 ---
+<head>
+   <link rel="canonical" href="https://https://zahra-claire-bahrani-peacock.github.io/terms-of-business.html" />
+</head>
+
 **Terms of Business**  
 
 Institute of Translation & Interpreting
