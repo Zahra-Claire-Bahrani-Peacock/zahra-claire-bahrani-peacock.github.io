@@ -3,7 +3,6 @@ layout: default
 title: About
 ---
 <br/> 
-<br/>
 <div align="center">Traductora e Interprete certificada por el estado y jurada y designada públicamente<br/>
 (Tribunal Regional de Múnich I)</div>
 <br/>
