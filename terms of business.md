@@ -3,7 +3,7 @@ layout: default
 title: Terms of Business
 ---
 <head>
-   <link rel="canonical" href="/terms-of-business" />
+   <link rel="canonical" href="/terms-of-business"/>
 </head>
 
 **Terms of Business**  
