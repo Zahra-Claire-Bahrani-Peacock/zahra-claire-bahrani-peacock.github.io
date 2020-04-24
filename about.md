@@ -26,5 +26,5 @@ Experiencing first-hand and from a young age the problems that people face when 
 <br/>
 <b>Graduated from Munich’s Municipal Foreign Languages Institute (FIM)</b>  
 State-certified translator and interpreter for English and German: 2018  
-<b>Area of expertise:</b> Economics  
+<b>Area of specialisation:</b> Economics  
 <b>2nd foreign language:</b> Spanish  
