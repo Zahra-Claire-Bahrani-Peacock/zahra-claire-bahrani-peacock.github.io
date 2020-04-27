@@ -2,9 +2,9 @@
 layout: page
 title: About
 ---
-<br/> 
 > Helping others achieve their goals through effective and efficient communication in other languages.  
-  
+
+<br/>
 Thank you for visiting my website.  
 <br/>
 My name is Zahra-Claire Bahrani-Peacock and I am a sworn, state-certified translator and interpreter.  
