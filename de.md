@@ -14,5 +14,6 @@ WhatsApp: <a href="https://api.whatsapp.com/send?phone=447428610493&text=Hi%20Za
 Telefon: <a href="tel:34951446290"  target="_blank">+34 951 44 62 90</a>  
 E-Mail: <a href="mailto:z-c@live.co.uk" target="_blank">z-c@live.co.uk</a></div>
 <br/>
-<div align="center">Schreiben Sie mir eine E-Mail oder rufen Sie mich einfach an. Ich helfe Ihnen gerne weiter.</div>
+<div align="center">Schreiben Sie mir eine E-Mail oder rufen Sie mich einfach an. Ich helfe Ihnen gerne weiter.</div>  
+<br/>
 <div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/?locale=de_DE"><b>Linkedin</b></a>
