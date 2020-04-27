@@ -17,6 +17,4 @@ I look forward to working with you.
 <br/>
 <div align="center"> Zahra-Claire Bahrani-Peacock</div>
 <div align="center">Calle Nuzas 22 &middot; 29010 Malaga &middot; Spain</div>
-<div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/">Linkedin</a> &middot; <a href="https://github.com/Zahra-Claire-Bahrani-Peacock/">GitHub</a></div>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="zahra-claire-bahrani-peacock"><a class="LI-simple-link" href='https://es.linkedin.com/in/zahra-claire-bahrani-peacock?trk=profile-badge'>Zahra-Claire Bahrani-Peacock</a></div>
+<div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/"><b>Linkedin</b></a> &middot; <a href="https://github.com/Zahra-Claire-Bahrani-Peacock/"><b>GitHub</b></a></div>
