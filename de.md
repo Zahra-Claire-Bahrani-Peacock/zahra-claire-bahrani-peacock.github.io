@@ -25,4 +25,4 @@ E-Mail: <a href="mailto:z-c@live.co.uk" target="_blank">z-c@live.co.uk</a></div>
 <br/>
 Frau Bahrani-Peacock war mit Ihrer Übersetzung eine große Hilfe, sowohl für mich, als auch für die entsprechenden Teilnehmer. Diese Übersetzung wurde von mir über den Präsenzunterricht hinaus auch für die Entspannung zuhause in schriftlicher Form weitergegeben. Die Teilnehmer waren hocherfreut eine so detaillierte Anleitung zu bekommen. Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen.“</div>  
 <br/>
-<div align="right">*Eine Kundin*</div>
+<div align="right"><i>Eine Kundin</i></div>
