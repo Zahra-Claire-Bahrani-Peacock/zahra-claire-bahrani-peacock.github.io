@@ -20,7 +20,7 @@ Having worked part-time as a translator and interpreter since 2017, I decided to
 <br/>
 Experiencing first-hand and from a young age the problems that people face when they do not speak the same language, my passion has always been to overcome these barriers, to make communication possible and to help people of different cultures be successful in communicating with other.  
 <br/>
-<b>Fields of expertise:</b> economics, business, equine industry, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation   
+<b>Fields of expertise:</b> economics, business, equine industry, pet care, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation   
 <br/>
 <b>Appointed as court translator and interpreter for English and German (Regional Court of Munich&nbsp;I):</b> 2020  
 <br/>
