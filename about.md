@@ -22,6 +22,8 @@ Experiencing first-hand and from a young age the problems that people face when 
 <br/>
 <b>Fields of expertise:</b> economics, business, equine industry, pet care, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation   
 <br/>
+<b>Member of the German translators and interpreters association</b> <a href="https://bdue.de/der-bdue/">BDÜ</a> (in turn a member of the <a href="https://www.fit-ift.org/">FIT</a>)  
+<br/>
 <b>Appointed as court translator and interpreter for English and German (Regional Court of Munich&nbsp;I):</b> 2020  
 <br/>
 <b>Graduated from Munich’s Municipal Foreign Languages Institute (FIM)</b>  
