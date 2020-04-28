@@ -16,7 +16,7 @@ E-Mail: <a href="mailto:z-c@live.co.uk" target="_blank">z-c@live.co.uk</a></div>
 <br/>
 <div align="center">Schreiben Sie mir eine E-Mail oder rufen Sie mich einfach an. Ich helfe Ihnen gerne weiter.</div>  
 <br/>
-<div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/?locale=de_DE"><b>LinkedIn</b></a>  
+<div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/?locale=de_DE" target="_blank"><b>LinkedIn</b></a>  
 <br/>
 <br/>
 <br/>
