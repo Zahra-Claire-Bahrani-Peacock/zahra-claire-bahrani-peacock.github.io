@@ -23,6 +23,6 @@ E-Mail: <a href="mailto:z-c@live.co.uk" target="_blank">z-c@live.co.uk</a></div>
 <div align="center">„Ich hatte Frau Bahrani-Peacock gebeten mir einen Text (Entspannungsanleitung) für die englischsprechenden Schüler meiner Yogaklassen vom Deutsch ins Englische zu übersetzen. Diese Übersetzung erfolgte sehr schnell und ich war sowohl mit der Qualität und dem Preis sehr zufrieden.  
 <br/>
 <br/>
-Frau Bahrani-Peacock war mit Ihrer Übersetzung eine große Hilfe, sowohl für mich, als auch für die entsprechenden Teilnehmer. Diese Übersetzung wurde von mir über den Präsenzunterricht hinaus auch für die Entspannung zuhause in schriftlicher Form weitergegeben. Die Teilnehmer waren hocherfreut eine so detaillierte Anleitung zu bekommen. Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen.“  
+Frau Bahrani-Peacock war mit Ihrer Übersetzung eine große Hilfe, sowohl für mich, als auch für die entsprechenden Teilnehmer. Diese Übersetzung wurde von mir über den Präsenzunterricht hinaus auch für die Entspannung zuhause in schriftlicher Form weitergegeben. Die Teilnehmer waren hocherfreut eine so detaillierte Anleitung zu bekommen. Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen.“</div>  
 <br/>
-*Eine Kundin*</div>
+<div align="right">*Eine Kundin*</div>
