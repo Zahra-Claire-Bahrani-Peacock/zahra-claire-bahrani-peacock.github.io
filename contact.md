@@ -18,4 +18,4 @@ I look forward to working with you.
 <br/>
 <div align="center"> Zahra-Claire Bahrani-Peacock</div>
 <div align="center">Calle Nuzas 22 &middot; 29010 Malaga &middot; Spain</div>
-<div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/"><b>Linkedin</b></a>
+<div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/"><b>LinkedIn</b></a>

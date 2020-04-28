@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<div align="center">Traductora e Interprete certificada por el estado, jurada y designada públicamente<br/>
+<div align="center">Traductora e Intérprete certificada por el estado, jurada y designada públicamente<br/>
 (Tribunal Regional de Múnich I)</div>
 <br/>
 <div align="center">Zahra-Claire Bahrani-Peacock<br/>
@@ -16,4 +16,4 @@ Email: <a href="mailto:z-c@live.co.uk" target="_blank">z-c@live.co.uk</a></div>
 <br/>
 <div align="center">Escríbeme un correo electrónico o simplemente llámame. Estaré encantada de conocerte y ayudarte con lo que sea. </div>  
 <br/>
-<div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/?locale=es_ES"><b>Linkedin</b></a>
+<div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/?locale=es_ES"><b>LinkedIn</b></a>
