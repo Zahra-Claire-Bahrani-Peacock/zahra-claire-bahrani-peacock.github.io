@@ -18,7 +18,11 @@ E-Mail: <a href="mailto:z-c@live.co.uk" target="_blank">z-c@live.co.uk</a></div>
 <br/>
 <div align="center"><a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/?locale=de_DE"><b>LinkedIn</b></a>  
 <br/>
+<br/>
+<br/>
 <div align="center">„Ich hatte Frau Bahrani-Peacock gebeten mir einen Text (Entspannungsanleitung) für die englischsprechenden Schüler meiner Yogaklassen vom Deutsch ins Englische zu übersetzen. Diese Übersetzung erfolgte sehr schnell und ich war sowohl mit der Qualität und dem Preis sehr zufrieden.  
 <br/>
+<br/>
 Frau Bahrani-Peacock war mit Ihrer Übersetzung eine große Hilfe, sowohl für mich, als auch für die entsprechenden Teilnehmer. Diese Übersetzung wurde von mir über den Präsenzunterricht hinaus auch für die Entspannung zuhause in schriftlicher Form weitergegeben. Die Teilnehmer waren hocherfreut eine so detaillierte Anleitung zu bekommen. Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen.“  
+<br/>
 Eine Kundin</div>
