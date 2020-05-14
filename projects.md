@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+permalink: projects
 ---
 <br/>
 Protecting my clients' privacy is of the utmost importance to me. Here, however, are a few examples of projects I have worked on.  
