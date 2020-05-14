@@ -1,6 +1,6 @@
 ---
 layout: null
-slug: license
+permalink: license
 ---
 # Released under MIT License
 
