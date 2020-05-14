@@ -3,7 +3,7 @@ layout: default
 title: Terms of Business
 permalink: terms-of-business
 ---
-<div>**Terms of Business**  </div>
+**Terms of Business**  
 
 Institute of Translation & Interpreting
 
