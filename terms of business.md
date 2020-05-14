@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Terms of Business
-slug: terms-of-business
+permalink: terms-of-business
 ---
-<div>{ font-size: 120% } **Terms of Business**  </div>
+<div>**Terms of Business**  </div>
 
 Institute of Translation & Interpreting
 
