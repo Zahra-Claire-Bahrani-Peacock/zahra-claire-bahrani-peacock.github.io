@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: about
+permalink: /about/
 ---
 <br/>
 > Helping others achieve their goals through effective and efficient communication in other languages.  
