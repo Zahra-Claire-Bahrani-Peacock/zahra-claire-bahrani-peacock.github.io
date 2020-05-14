@@ -1,5 +1,5 @@
 ---
-layout: null
+permalink: licence
 ---
 # Released under MIT License
 
