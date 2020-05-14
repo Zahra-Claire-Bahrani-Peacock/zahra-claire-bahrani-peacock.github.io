@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Terms of Business
+slug: terms-of-business
 ---
 <div>{ font-size: 120% } **Terms of Business**  </div>
 
