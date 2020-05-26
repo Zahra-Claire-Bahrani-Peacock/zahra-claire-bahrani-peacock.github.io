@@ -5,6 +5,10 @@ permalink: cpd/webinars
 ---
 <br>
 <br>
+<li><a href="https://videos.proz.com/videos/tips-for-dealing-with-direct-clientsenglish-1336" target="_blank">Tips for Dealing with Direct Clients – Proz.com, Anne-Charlotte PERRIGAUD <small>26.5.2020</small></a></li>  
+<br>
+<li><a href="https://videos.proz.com/videos/linkedin-transparency-and-creativity-to-win-more-clients-992" target="_blank">LinkedIn: Transparency and Creativity to Win More Clients – Proz.com, Sara Colombo <small>26.5.2020</small></a></li>  
+<br>
 <li><a href="https://videos.proz.com/videos/how-to-become-a-successful-financial-translator-138" target="_blank">How to Become a Successful Financial Translator? – Proz.com, Francesca Airaghi <small>25.5.2020</small></a></li>  
 <br>
 <li><a href="https://videos.proz.com/videos/104-legal-terminology-real-estate-law-terminology-1982" target="_blank">104 - Legal Terminology: Real Estate Law Terminology – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>  
