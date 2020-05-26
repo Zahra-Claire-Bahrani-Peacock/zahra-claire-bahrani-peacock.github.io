@@ -6,6 +6,18 @@ permalink: cpd
 <br/>
 Below is an up-to-date record of my CPD activity, ordered by date with the most recent first.
 <br/>
+<li><a href="https://videos.proz.com/videos/web-localisation-techniques-and-tips-440 " target="_blank">Creating a good website using Wordpress made easy – Cade Málaga – Proyecto Lunar
+“Charlas con Expertos”
+ – Proz.com webinar, Sara Colombo <small>24.4.2020</small></a></li>  
+
+<li><a href="https://training.proz.com/spotlight-training/how-to-get-more-direct-clients-1" target="_blank">How to get more direct clients – Proz.com spotlight training course <small>16.4.-22.4.2020</small></a></li>  
+
+<li><a href="https://training.proz.com/spotlight-training/guide-to-effective-sales" target="_blank">A Guide to Effective Selling for Translators – Proz.com spotlight training course <small>9.4.-27.4.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/web-localisation-techniques-and-tips-440" target="_blank">Web Localisation: Techniques and Tips – Proz.com webinar, Sara Colombo <small>9.4.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/translating-food-for-export-food-labels-and-veterinary-certificates-85" target="_blank">Translating Food for Export: Food Labels and Veterinary Certificates – Proz.com webinar, Anneta Vysotskaya <small>9.4.2020</small></a></li>  
+
 <li><a href="https://videos.proz.com/videos/translating-for-food-industry-part-two-terminology-410" target="_blank">Translating For Food Industry. Part Two: Terminology – Proz.com webinar, Anneta Vysotskaya <small>9.4.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/translating-for-food-industry-general-overview-99" target="_blank">Translating for the Food Industry: General Overview – Proz.com webinar, Anneta Vysotskaya <small>8.4.2020</small></a></li>  
