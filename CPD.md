@@ -18,4 +18,4 @@ Below is an up-to-date record of my CPD activity, ordered by date with the most 
 
 <li><a href="https://efectocolibri.com/en/" target="_blank">Voice Training “The Power of your Voice” – workshop, Barbara Frowein <small>06.05.2016</small></a></li>  
 
-<li><a href="https://www.facebook.com/pg/SinikMunich/about/?ref=page_internal" target="_blank"title="Link in German.">Intercultural Awareness – workshop, Sinik-Munich <small>29.01.2016</small></a></li>
+<li><a href="https://www.facebook.com/pg/SinikMunich/about/?ref=page_internal" target="_blank" title="Link in German.">Intercultural Awareness – workshop, Sinik-Munich <small>29.01.2016</small></a></li>
