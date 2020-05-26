@@ -6,9 +6,9 @@ permalink: cpd
 <br/>
 Below is an up-to-date record of my CPD activity, ordered by date with the most recent first.
 <br/>
-<li><a href="https://videos.proz.com/videos/translating-food-tips-and-tricks-743" target="_blank">Translating For Food Industry. Part Two: Terminology – Proz.com webinar, Valentina Palmieri <small>9.4.2020</small></a></li>  
+<li><a href="https://videos.proz.com/videos/translating-for-food-industry-part-two-terminology-410" target="_blank">Translating For Food Industry. Part Two: Terminology – Proz.com webinar, Anneta Vysotskaya <small>9.4.2020</small></a></li>  
 
-<li><a href="https://videos.proz.com/videos/translating-food-tips-and-tricks-743" target="_blank">Translating for the Food Industry: General Overview – Proz.com webinar, Anneta Vysotskaya <small>8.4.2020</small></a></li>  
+<li><a href="https://videos.proz.com/videos/translating-for-food-industry-general-overview-99" target="_blank">Translating for the Food Industry: General Overview – Proz.com webinar, Anneta Vysotskaya <small>8.4.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/translating-food-tips-and-tricks-743" target="_blank">Translating Food: Tips and Tricks – Proz.com webinar, Valentina Palmieri <small>8.4.2020</small></a></li>  
 
