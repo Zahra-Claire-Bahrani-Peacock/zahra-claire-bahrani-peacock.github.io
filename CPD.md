@@ -9,8 +9,27 @@ Below is an up-to-date record of my CPD activity, ordered by date with the most 
 
 **Webinars**  
 
+<li><a href="https://videos.proz.com/videos/how-to-become-a-successful-financial-translator-138" target="_blank">How to Become a Successful Financial Translator? – Proz.com, Francesca Airaghi <small>25.5.2020</small></a></li>  
 
-<li><a href="https://videos.proz.com/videos/research-techniques-for-accurate-terminology-1301" target="_blank">Research Techniques for Accurate Terminology – Proz.com, David Christian <small>15.5.2020</small></a></li> 
+<li><a href="https://videos.proz.com/videos/104-legal-terminology-real-estate-law-terminology-1982" target="_blank">104 - Legal Terminology: Real Estate Law Terminology – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/an-international-overview-public-international-law-139" target="_blank">An International Overview: Public International Law – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/seo-3-maintaining-and-promoting-your-website-2027" target="_blank">SEO 3 - Maintaining and Promoting your Website – Proz.com, Stanislaw Czech, MCIL <small>25.5.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/seo-2-optimizing-content-of-your-pages-2034" target="_blank">SEO2 - Optimizing the Content of Your Pages – Proz.com, Stanislaw Czech, MCIL <small>25.5.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/seo-1-designing-and-optimizing-your-website-2040" target="_blank">SEO 1 - Designing and Optimizing Your Website – Proz.com, Stanislaw Czech, MCIL <small>25.5.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/seo-1-designing-and-optimizing-your-website-2040" target="_blank">SEO 1 - Designing and Optimizing Your Website – Proz.com, Stanislaw Czech, MCIL <small>25.5.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/how-to-become-an-efficient-proofreader-132" target="_blank">How to Become an Efficient Proofreader – Proz.com, Francesca Airaghi <small>21.5.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/pd-103-can-you-learn-to-become-a-reviewer-guidelines-and-practical-steps-to-perform-the-job-of-a-reviewer-1632" target="_blank">PD 103: Can You Learn to Become a Reviewer? Guidelines and Practical Steps to Perform the Job of a Reviewer – Proz.com, Luciana Ramos <small>20.5.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/the-difference-between-proofreading-and-editing-4" target="_blank">The Difference Between Proofreading and Editing – Proz.com, Thayenga <small>20.5.2020</small></a></li>  
+
+<li><a href="https://videos.proz.com/videos/research-techniques-for-accurate-terminology-1301" target="_blank">Research Techniques for Accurate Terminology – Proz.com, David Christian <small>15.5.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/run-an-efficient-business-project-management-for-translators-97" target="_blank">Run an Efficient Business: Project Management for Translators – Proz.com, Sara Colombo <small>14.5.2020</small></a></li>  
  
@@ -64,6 +83,10 @@ https://videos.proz.com/videos/quality-assurance-for-translators-increase-busine
 <li><a href="https://www.facebook.com/pg/SinikMunich/about/?ref=page_internal" target="_blank" title="Link in German.">Intercultural Awareness – Sinik-Munich <small>29.1.2016</small></a></li>  
 
 **Lectures**  
+
+<li><a href="https://www.hayfestival.com/p-16779-tim-harford.aspx" target="_blank">The Next Fifty Things that Made the Modern Economy – live talk, Hay Festival <small>25.5.2020</small></a></li>  
+
+<li><a href="https://www.hayfestival.com/p-16752-esther-duflo-chaired-by-evan-davis.aspx" target="_blank">Good Economics for Hard Times: Better Answers to Our Biggest Problems – live talk, Hay Festival <small>22.5.2020</small></a></li>  
 
 <li><a href="https://www.york.ac.uk/news-and-events/events/public-lectures/spring-2020/american-update/" target="_blank">American Politics Update: The effect on the Trump impeachment and the Democratic primaries – University of York <small>5.2.2020</small></a></li>  
 
