@@ -7,27 +7,15 @@ permalink: webinars
 <br>
 <br>
 2020
-<li><a href="https://videos.proz.com/videos/tips-for-dealing-with-direct-clientsenglish-1336" target="_blank">Tips for Dealing with Direct Clients – Proz.com, Anne-Charlotte PERRIGAUD <small>26.5.2020</small></a></li>  
-
-<li><a href="https://videos.proz.com/videos/linkedin-transparency-and-creativity-to-win-more-clients-992" target="_blank">LinkedIn: Transparency and Creativity to Win More Clients – Proz.com, Sara Colombo <small>26.5.2020</small></a></li>  
-
 <li><a href="https://videos.proz.com/videos/how-to-become-a-successful-financial-translator-138" target="_blank">How to Become a Successful Financial Translator? – Proz.com, Francesca Airaghi <small>25.5.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/104-legal-terminology-real-estate-law-terminology-1982" target="_blank">104 - Legal Terminology: Real Estate Law Terminology – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/an-international-overview-public-international-law-139" target="_blank">An International Overview: Public International Law – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>  
 
-<li><a href="https://videos.proz.com/videos/seo-3-maintaining-and-promoting-your-website-2027" target="_blank">SEO 3 - Maintaining and Promoting your Website – Proz.com, Stanislaw Czech, MCIL <small>25.5.2020</small></a></li>  
-
-<li><a href="https://videos.proz.com/videos/seo-2-optimizing-content-of-your-pages-2034" target="_blank">SEO2 - Optimizing the Content of Your Pages – Proz.com, Stanislaw Czech, MCIL <small>25.5.2020</small></a></li>  
-
-<li><a href="https://videos.proz.com/videos/seo-1-designing-and-optimizing-your-website-2040" target="_blank">SEO 1 - Designing and Optimizing Your Website – Proz.com, Stanislaw Czech, MCIL <small>25.5.2020</small></a></li>  
-
 <li><a href="https://videos.proz.com/videos/seo-1-designing-and-optimizing-your-website-2040" target="_blank">SEO 1 - Designing and Optimizing Your Website – Proz.com, Stanislaw Czech, MCIL <small>25.5.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/how-to-become-an-efficient-proofreader-132" target="_blank">How to Become an Efficient Proofreader – Proz.com, Francesca Airaghi <small>21.5.2020</small></a></li>  
-
-<li><a href="https://videos.proz.com/videos/pd-103-can-you-learn-to-become-a-reviewer-guidelines-and-practical-steps-to-perform-the-job-of-a-reviewer-1632" target="_blank">PD 103: Can You Learn to Become a Reviewer? Guidelines and Practical Steps to Perform the Job of a Reviewer – Proz.com, Luciana Ramos <small>20.5.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/the-difference-between-proofreading-and-editing-4" target="_blank">The Difference Between Proofreading and Editing – Proz.com, Thayenga <small>20.5.2020</small></a></li>  
 
@@ -50,13 +38,7 @@ permalink: webinars
 <li><a href="www.marketingtipsfortranslators.com.
 https://videos.proz.com/videos/quality-assurance-for-translators-increase-business-and-translation-quality-1962" target="_blank">Quality Assurance for Translators - increase business and translation quality– Proz.com, Tess Whitty <small>1.5.2020</small></a></li>  
 
-<li><a href="https://videos.proz.com/videos/improve-your-written-english-50-of-our-favourite-mother-tongue-mistakes-546" target="_blank">Improve Your Written English: 50 of Our Favourite Mother-Tongue Mistakes – Proz.com, Gwenydd Jones <small>1.5.2020</small></a></li>  
-
-<li><a href="https://videos.proz.com/videos/finding-mistakes-in-your-translation-2421" target="_blank">Finding Mistakes in Your Translation – Proz.com, Brian R Mossop <small>30.4.2020</small></a></li>  
-
-<li>Copywriting and storytelling for social media: the power of stories on Instagram – Cade Málaga, Proyecto Lunar "Charlas con Expertos" <small>30.4.2020</small></li>  
-
-<li>Creating a good website using Wordpress made easy – Cade Málaga, Proyecto Lunar "Charlas con Expertos" <small>24.4.2020</small></li>  
+<li><a href="https://www.gaspardigital.es/" target="_blank">Creating a good website using Wordpress made easy – Cade Málaga, Proyecto Lunar "Charlas con Expertos" <small>24.4.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/web-localisation-techniques-and-tips-440" target="_blank">Web Localisation: Techniques and Tips – Proz.com, Sara Colombo <small>9.4.2020</small></a></li>  
 
