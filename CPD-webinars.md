@@ -7,8 +7,6 @@ permalink: webinars
 <br>
 <br>
 2020
-<li><a href="https://videos.proz.com/videos/how-to-become-a-successful-financial-translator-138" target="_blank">How to Become a Successful Financial Translator? – Proz.com, Francesca Airaghi <small>25.5.2020</small></a></li>  
-
 <li><a href="https://videos.proz.com/videos/104-legal-terminology-real-estate-law-terminology-1982" target="_blank">104 - Legal Terminology: Real Estate Law Terminology – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/an-international-overview-public-international-law-139" target="_blank">An International Overview: Public International Law – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>  
