@@ -2,6 +2,8 @@
 layout: default
 title: Home
 permalink: de
+keywords: zahra-claire bahrani-peacock, zahra uebersetzen, zahra ubersetzerin, zahra uebersetzerin, Zahra Bahrani-Peacock, Zahra-Claire, Zaza Bahrani-Peacock
+description: Zahra-Claire Bahrani-Peacock | Beeidigte, staatlich geprüfte Übersetzerin und Dolmetscherin
 ---
 <div align="center">Staatlich geprüfte, öffentlich bestellte und beeidigte Übersetzerin und Dolmetscherin für die englische Sprache<br/>
 (Landgericht München I)</div>
