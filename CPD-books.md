@@ -8,6 +8,7 @@ permalink: books
 <br>
 2020
 <li><a href="https://www.bdue-fachverlag.de/detail_book/80" target="_blank" title="Link in German.">Marketing für Dolmetscher und Übersetzer (English: Marketing for Interpreters and Translators) – BDÜ, Birgit Golms <small>currently reading</small></a></li>  
+
 <li><a href="https://www.bdue-fachverlag.de/detail_book/99" target="_blank" title="Link in German.">Erfolgreich selbstständig als Dolmetscher und Übersetzer (English: Successful Freelancing as a Translator) – BDÜ <small>April 2020</small></a></li>  
 <br>
 2018

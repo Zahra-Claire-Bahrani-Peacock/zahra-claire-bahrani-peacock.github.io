@@ -15,5 +15,5 @@ permalink: lectures
 <br>
 2018
 <li><a href="http://www.lakel-translation.de/" target="_blank">Marketing for interpreters and translators – Jeannette Lakèl from the BDÜ <small>June 2018</small></a></li>  
-<br>
+
 <li><a href="https://www.carcanet.co.uk/cgi-bin/indexer?owner_id=178" target="_blank">Poetry is what gets lost in translation – Richard Dove <small>25.1.2018</small></a></li>
