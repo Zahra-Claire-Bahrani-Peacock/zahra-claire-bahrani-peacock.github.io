@@ -1,7 +1,6 @@
 ---
 layout: default
-title: CPD > eConferences
-permalink: cpd/econferences
+title: Conferences
 ---
 <br>
 <br>

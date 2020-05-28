@@ -1,7 +1,6 @@
 ---
 layout: default
-title: CPD > Lectures
-permalink: cpd/lectures
+title: Lectures
 ---
 <br>
 <br>

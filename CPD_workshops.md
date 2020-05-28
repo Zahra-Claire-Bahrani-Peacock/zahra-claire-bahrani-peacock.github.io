@@ -1,7 +1,6 @@
 ---
 layout: default
-title: CPD > Workshops
-permalink: cpd/workshops
+title: Workshops
 ---
 <br>
 <br>

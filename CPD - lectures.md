@@ -1,7 +1,6 @@
 ---
 layout: page
-title: CPD
-permalink: cpd
+title: Lectures
 ---
 <br>
 <br>

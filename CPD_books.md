@@ -1,7 +1,6 @@
 ---
 layout: default
-title: CPD > Books
-permalink: cpd/books
+title: Books
 ---
 <br>
 <br>

@@ -1,7 +1,6 @@
 ---
 layout: default
-title: CPD > Webinars
-permalink: cpd/webinars
+title: Webinars
 ---
 <br>
 <br>
