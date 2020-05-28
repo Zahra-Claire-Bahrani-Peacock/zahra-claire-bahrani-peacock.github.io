@@ -3,7 +3,7 @@ layout: default
 title: Lectures
 permalink: lectures
 ---
-<br>
+<h1 class="page-title"><a href="https://zahra-claire-bahrani-peacock.github.io/cpd">CPD</a> <small>></small> Lectures</h1><br>
 <br>
 <li><a href="https://www.hayfestival.com/p-16779-tim-harford.aspx" target="_blank">The Next Fifty Things that Made the Modern Economy – live talk, Hay Festival <small>25.5.2020</small></a></li>  
 <br>

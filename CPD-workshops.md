@@ -3,7 +3,7 @@ layout: default
 title: Workshops
 permalink: workshops
 ---
-<br>
+<h1 class="page-title"><a href="https://zahra-claire-bahrani-peacock.github.io/cpd">CPD</a> <small>></small> Webinars</h1><br>
 <br>
 <li><a href="https://twitter.com/tradumata?lang=en" target="_blank" title="Link in English and Spanish.">Website Localisation using CAT tools – Manuel Mata Pastor <small>19.6.-21.6.2018</small></a></li>  
   

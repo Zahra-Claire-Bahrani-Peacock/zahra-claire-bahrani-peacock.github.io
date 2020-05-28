@@ -3,7 +3,7 @@ layout: default
 title: Training Courses
 permalink: training-courses
 ---
-<br>
+<h1 class="page-title"><a href="https://zahra-claire-bahrani-peacock.github.io/cpd">CPD</a> <small>></small> Training Courses</h1><br>
 <br>
 <li><a href="https://www.translegal.com/product/introduction-to-legal-english/" target="_blank">Introduction to Legal English – Translegal <small>15.05.2020-present</small></a></li>  
 <br>

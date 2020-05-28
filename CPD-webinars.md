@@ -3,7 +3,7 @@ layout: default
 title: Webinars
 permalink: webinars
 ---
-<br>
+<h1 class="page-title"><a href="https://zahra-claire-bahrani-peacock.github.io/cpd">CPD</a> <small>></small> Webinars</h1><br>
 <br>
 <li><a href="https://videos.proz.com/videos/tips-for-dealing-with-direct-clientsenglish-1336" target="_blank">Tips for Dealing with Direct Clients – Proz.com, Anne-Charlotte PERRIGAUD <small>26.5.2020</small></a></li>  
 <br>
