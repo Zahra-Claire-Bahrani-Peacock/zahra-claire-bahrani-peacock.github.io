@@ -9,12 +9,12 @@ This is an up-to-date record of my CPD activity, ordered by type of activity and
 
 <li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-webinars">Webinars</a></li>  
 
-<li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-workshops">Workshops</a></li>  
+<li><a href="https://zahra-claire-bahrani-peacock.github.io/workshops">Workshops</a></li>  
 
 <li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-training-courses">Training courses</a></li>  
 
-<li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-lectures.md">Lectures</a></li>  
+<li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-lectures">Lectures</a></li>  
 
-<li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-books.md">Books</a></li>  
+<li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-books">Books</a></li>  
  
-<li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-econferences.md">eConferences</a></li>
+<li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-econferences">eConferences</a></li>

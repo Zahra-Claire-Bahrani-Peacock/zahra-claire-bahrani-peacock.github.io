@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Workshops
+permalink: workshops
 ---
 <br>
 <br>
