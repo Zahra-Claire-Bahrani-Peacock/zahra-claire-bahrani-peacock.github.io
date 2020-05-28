@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Conferences
+title: eConferences
+permalink: econferences
 ---
 <br>
 <br>

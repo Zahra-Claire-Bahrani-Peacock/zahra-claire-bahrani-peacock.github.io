@@ -1,6 +1,7 @@
 ---
 layout: default
-title: CPD > Training Courses
+title: Training Courses
+permalink: training-courses
 ---
 <br>
 <br>
