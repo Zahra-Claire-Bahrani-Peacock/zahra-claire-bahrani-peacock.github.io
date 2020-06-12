@@ -7,6 +7,10 @@ permalink: lectures
 <br>
 <br>
 2020
+<li><a href="http://yorkfestivalofideas.com/2020-online/calendar/walking-about/" target="_blank">The Economics of Walking About in a Covid World – live talk, York Festival of Ideas <small>12.6.2020</small></a></li>  
+
+<li><a href="http://yorkfestivalofideas.com/2020-online/calendar/be-happier/" target="_blank">Can We Be Happier? Evidence and ethics – live talk, York Festival of Ideas <small>11.6.2020</small></a></li>  
+
 <li><a href="https://www.hayfestival.com/p-16779-tim-harford.aspx" target="_blank">The Next Fifty Things that Made the Modern Economy – live talk, Hay Festival <small>25.5.2020</small></a></li>  
 
 <li><a href="https://www.hayfestival.com/p-16752-esther-duflo-chaired-by-evan-davis.aspx" target="_blank">Good Economics for Hard Times: Better Answers to Our Biggest Problems – live talk, Hay Festival <small>22.5.2020</small></a></li>  
