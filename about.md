@@ -7,7 +7,7 @@ permalink: about
 > Helping others achieve their goals through effective and efficient communication in other languages.  
 
 <br/>
-<b>Fields of expertise:</b> economics, business, equine industry, pet care, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation   
+<b>Fields of interest:</b> economics, business, equine industry, pet care, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation   
 <br/>
 <b>Member of the German translators and interpreters association</b> <a href="https://bdue.de/der-bdue/" target="_blank">BDÜ</a> (in turn a member of the <a href="https://www.fit-ift.org/" target="_blank">FIT</a>)  
 <br/>
