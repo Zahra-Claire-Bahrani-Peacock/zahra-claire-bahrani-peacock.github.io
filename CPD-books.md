@@ -7,7 +7,7 @@ permalink: books
 <br>
 <br>
 2020
-<li><a href="https://www.amazon.co.uk/Writing-Publication-Transitions-Scholars-Education/dp/3319316486" target="_blank">Writing for Publication: Transitions and Tools that Support Scholars’ Success – Mary Renck Renck Jalongo and Olivia N. Saracho <small>currently reading</small></a></li>  
+<li><a href="https://www.amazon.co.uk/Writing-Publication-Transitions-Scholars-Education/dp/3319316486" target="_blank">Writing for Publication: Transitions and Tools that Support Scholars’ Success – Mary Renck Jalongo and Olivia N. Saracho <small>currently reading</small></a></li>  
 
 <li><a href="https://www.bdue-fachverlag.de/detail_book/80" target="_blank" title="Link in German.">Marketing für Dolmetscher und Übersetzer (English: Marketing for Interpreters and Translators) – BDÜ, Birgit Golms <small>currently reading</small></a></li>  
 
