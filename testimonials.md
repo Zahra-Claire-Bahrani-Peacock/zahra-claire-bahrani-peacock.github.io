@@ -17,8 +17,9 @@ Además de su cualidad analítica, Zahra siempre cumplió con los plazos, siempr
 Por todo esto, no tengo ninguna duda en recomendar a Zahra para llevar a cabo un trabajo excelente en la traducción del español al inglés."</div>  
 <br/>
 <div align="right"><i>Efecto Colibrí</i></div>
-
-
+<br/>
+<br/>
+<br/>
 <div align="center">„Ich hatte Frau Bahrani-Peacock gebeten mir einen Text (Entspannungsanleitung) für die englischsprechenden Schüler meiner Yogaklassen vom Deutsch ins Englische zu übersetzen. Diese Übersetzung erfolgte sehr schnell und ich war sowohl mit der Qualität und dem Preis sehr zufrieden.  
 <br/>
 <br/>
