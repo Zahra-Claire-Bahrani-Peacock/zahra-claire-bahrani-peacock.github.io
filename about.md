@@ -29,3 +29,5 @@ I now offer interpreting, translation, proofreading and website localisation ser
 State-certified translator and interpreter for English and German: 2018  
 Area of specialisation: Economics  
 2nd foreign language: Spanish  
+
+Visit my <a href="https://www.linkedin.com/in/zahra-claire-bahrani-peacock/" target="_blank">LinkedIn profile</a> to find out more about my experience.
