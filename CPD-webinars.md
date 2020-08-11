@@ -7,10 +7,10 @@ permalink: webinars
 <br>
 <br>
 2020
-<li><a href="https://videos.proz.com/videos/an-international-overview-public-international-law-139" target="_blank">An International Overview: Public International Law – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>   
+<li><a href="https://videos.proz.com/videos/an-international-overview-public-international-law-139" target="_blank">An International Overview: Public International Law – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>
 <br>
 <li><a href="https://videos.proz.com/videos/the-difference-between-proofreading-and-editing-4" target="_blank">The Difference Between Proofreading and Editing – Proz.com, Thayenga <small>20.5.2020</small></a></li>  
-
+<br>
 <li><a href="https://videos.proz.com/videos/research-techniques-for-accurate-terminology-1301" target="_blank">Research Techniques for Accurate Terminology – Proz.com, David Christian <small>15.5.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/run-an-efficient-business-project-management-for-translators-97" target="_blank">Run an Efficient Business: Project Management for Translators – Proz.com, Sara Colombo <small>14.5.2020</small></a></li>   
