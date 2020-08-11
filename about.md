@@ -7,7 +7,7 @@ permalink: about
 > Helping people achieve their goals through effective and efficient communication in other languages.  
 
 <br/>
-<b>Fields of interest:</b> economics, business, equine industry, pet care, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation   
+<b>Fields of particular interest:</b> economics, business, agriculture, food, travel & tourism, equine industry, pet care, art & theatre, law (general)   
 <br/>
 <b>Member of the German translators and interpreters association</b> <a href="https://bdue.de/der-bdue/" target="_blank">BDÜ</a> (in turn a member of the <a href="https://www.fit-ift.org/" target="_blank">FIT</a>)  
 <br/>
@@ -15,14 +15,14 @@ permalink: about
 <br/>
 <b>Graduated from Munich’s Municipal Foreign Languages Institute (FIM)</b>  
 State-certified translator and interpreter for English and German: 2018  
-<b>Area of specialisation:</b> Economics  
-<b>2nd foreign language:</b> Spanish  
+Area of specialisation: Economics  
+2nd foreign language: Spanish  
 <br/>
-Thank you for visiting my website.  
+Hi there and welcome to my website.  
 <br/>
-My name is Zahra-Claire Bahrani-Peacock and I am a sworn, state-certified translator and interpreter.  
+My name is Zahra-Claire Bahrani-Peacock. I am a sworn, state-certified translator and interpreter.  
 <br/>
-I grew up bilingual in York, UK, with English and German, spending the summer holidays of each year in Bavaria, Germany, and Andalusia, Spain, whilst the school holidays in between I often spent with student exchange partners. As one might imagine, language and intercultural communication have always played an important role in my life as a result, so when the time came to choose A-Levels, languages combined with business and art seemed like an obvious choice. When the time came to choose a university, it simply made sense to move abroad to study translation and interpreting with a focus on economics at Munich’s Municipal Foreign Languages Institute (FIM).  
+I grew up bilingual in the UK with English and German, spending extended periods each year in Germany and Spain. When the time came to choose a university, it simply made sense to move abroad to study translation and interpreting with a focus on economics at Munich’s Municipal Foreign Languages Institute (FIM).  
 <br/>
 The course was very practically orientated, equally combining practical work with the theory of translation, interpreting and economics. The fact that the course was taught in German allowed me to gain in-depth knowledge of the language and culture, sparking my interest in localisation as I compared and contrasted the three cultures I had spent so much time in.  
 <br/>
