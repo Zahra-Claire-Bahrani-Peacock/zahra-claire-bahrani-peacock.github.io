@@ -8,7 +8,7 @@ permalink: webinars
 <br>
 2020
 <li><a href="https://videos.proz.com/videos/104-legal-terminology-real-estate-law-terminology-1982" target="_blank">104 - Legal Terminology: Real Estate Law Terminology – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>  
-
+<br>
 <li><a href="https://videos.proz.com/videos/an-international-overview-public-international-law-139" target="_blank">An International Overview: Public International Law – Proz.com, Suzanne Deliscar <small>25.5.2020</small></a></li>   
 
 <li><a href="https://videos.proz.com/videos/the-difference-between-proofreading-and-editing-4" target="_blank">The Difference Between Proofreading and Editing – Proz.com, Thayenga <small>20.5.2020</small></a></li>  
