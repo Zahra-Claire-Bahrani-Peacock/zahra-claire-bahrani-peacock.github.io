@@ -5,7 +5,7 @@ permalink: contact
 ---
 <br/>
 <br/>
-Please send me a message with any questions you may have.
+Do not hesitate to send me a message should you have any questions.
 <br/>
 <br/>
 Mobile: <a href="tel:34600650177"  target="_blank">+34 600 65 01 77</a>  
