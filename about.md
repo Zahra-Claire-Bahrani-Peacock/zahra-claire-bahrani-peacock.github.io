@@ -4,7 +4,7 @@ title: About
 permalink: about
 ---
 <br/>
-> Helping others achieve their goals through effective and efficient communication in other languages.  
+> Helping people achieve their goals through effective and efficient communication in other languages.  
 
 <br/>
 <b>Fields of interest:</b> economics, business, equine industry, pet care, agriculture, food, travel & tourism, gaming, art & theatre; in particular in connection with marketing, education and legal documentation   
