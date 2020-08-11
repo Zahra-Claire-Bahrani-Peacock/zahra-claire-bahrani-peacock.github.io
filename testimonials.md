@@ -26,3 +26,18 @@ Por todo esto, no tengo ninguna duda en recomendar a Zahra para llevar a cabo un
 [...] Die Teilnehmer waren hocherfreut eine so detaillierte Anleitung zu bekommen. Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen.“</div>  
 <br/>
 <div align="right"><i>Eine Kundin</i></div>
+<br/>
+<br/>
+<br/>
+<div align="center">„In jeglicher Hinsicht sehr zufrieden bin ich mit den Übersetzungen für meine Website.  
+Frau Bahrani-Peacock fand sich flexibel in das spezielle Métier der Kunsttherapie hinein.  
+Sie arbeitete schnell, gründlich, präzise und zuverlässig.  
+Die Besprechungen waren durch ihre freundliche Art sehr angenehm. 
+Ingesamt hohe Qualität zu einem angemessen Preis.  
+<br/>
+<br/>
+Auch meine Gedichte für mein Kunstbuch hat sie einfühlsam und passend zum Inhalt ins Englische übersetzt.“</div>  
+<br/>
+<div align="right"><i>Eine Kundin</i></div>
+
+
