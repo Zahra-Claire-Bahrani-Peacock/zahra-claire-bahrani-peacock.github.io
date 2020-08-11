@@ -28,3 +28,4 @@ In 2017, during my last year on the course, I began working part-time as a freel
 <br/>
 After completing the course in 2018 and moving to Spain, I did a 9-month internship at a translation agency in Malaga as their in-house translator, proofreader and project manager for English and German, whilst continuing to work part-time as a translator. It was in 2019 that I decided to dedicate myself full-time to my own translation and interpreting business.      
 <br/> 
+I now offer interpreting, translation, proofreading and website localisation services to SMEs as well as agencies and private individuals. Send me a message or give me a call and tell me about your project and what you need.
