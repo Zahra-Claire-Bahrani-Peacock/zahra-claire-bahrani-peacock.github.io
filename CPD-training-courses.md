@@ -9,4 +9,4 @@ permalink: training-courses
 2020
 <li><a href="https://www.translegal.com/product/introduction-to-legal-english/" target="_blank">Introduction to Legal English – Translegal <small>15.05.2020 - present</small></a></li>    
 
-<li><a href="https://training.proz.com/spotlight-training/guide-to-effective-sales" target="_blank">A Guide to Effective Selling for Translators – Proz.com spotlight training course <small>9.4. - 27.4.2020</small></a></li>
+<li><a href="https://techforword.com/p/getting-the-right-mix" target="_blank">Hassle-free audio for remote interpreting and practice – Techforword <small>24.06.2020</small></a></li>
