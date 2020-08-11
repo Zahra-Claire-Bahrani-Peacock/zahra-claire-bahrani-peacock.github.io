@@ -4,7 +4,7 @@ title: CPD
 permalink: cpd
 ---
 <br/>
-This is an up-to-date record of my CPD activity, ordered by type of activity and then by date.
+Find out about CPD that I have completed recently and in the past by following the links below.
 <br/>
 
 <li><a href="https://zahra-claire-bahrani-peacock.github.io/webinars">Webinars</a></li>  
