@@ -35,6 +35,6 @@ MTPE
 Web localisation
 <li><a href="https://videos.proz.com/videos/seo-in-tourism-translation-186" target="_blank">SEO in Tourism Translation – Proz.com, Sara Colombo <small>13.5.2020</small></a></li>  
 
-<li><a href="https://www.gaspardigital.es/" target="_blank"title="Link in Spanish.">Creating a good website using Wordpress made easy – Cade Málaga, Proyecto Lunar "Charlas con Expertos" <small>24.4.2020</small></a></li>  
+<li><a href="https://www.gaspardigital.es/" target="_blank" title="Link in Spanish.">Creating a good website using Wordpress made easy – Cade Málaga, Proyecto Lunar "Charlas con Expertos" <small>24.4.2020</small></a></li>  
 
 <li><a href="https://videos.proz.com/videos/web-localisation-techniques-and-tips-440" target="_blank">Web Localisation: Techniques and Tips – Proz.com, Sara Colombo <small>9.4.2020</small></a></li>  
