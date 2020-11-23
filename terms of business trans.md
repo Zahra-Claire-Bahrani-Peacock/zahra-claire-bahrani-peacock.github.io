@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of Business
-permalink: terms-of-business
+permalink: terms-of-business-translation
 ---
 **Terms of Business**  
 
