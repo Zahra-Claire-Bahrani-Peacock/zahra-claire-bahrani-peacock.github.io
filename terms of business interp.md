@@ -191,4 +191,4 @@ By accepting the quote verbally, in writing or through payment, you agree to the
 
 
 
-These General Terms of Business have been adapted from the Institute of Translation and Interpreting's</a> Model General Terms and Conditions.
+These General Terms of Business have been adapted from the Institute of Translation and Interpreting's Model General Terms and Conditions.
