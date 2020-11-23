@@ -5,9 +5,7 @@ permalink: terms-of-business-translation
 ---
 **Terms of Business**  
 
-Institute of Translation & Interpreting
-
-Zahra-Claire Bahrani-Peacock’s General Terms of Business for Translation, Localisation or Proofreading Work
+Zahra-Claire Bahrani-Peacock’s General Terms of Business for Translation, Localisation or Proofreading Work.
 
 By accepting the quote verbally, in writing or through payment, you agree to the following Terms of Business as displayed in the document held by Zahra Claire Bahrani Peacock.
 
