@@ -193,3 +193,7 @@ By accepting the quote verbally, in writing or through payment, you agree to the
    3. This Agreement may be subject to any detailed requirements or variants expressly specified in the order relating to a particular Translation Task.
 
    4. No waiver of any breach of any condition in this Agreement shall be considered as a waiver of any subsequent breach of the same or any other provision.
+
+
+
+These General Terms of Business have been adapted from the Institute of Translation and Interpreting's</a> Model General Terms and Conditions.
