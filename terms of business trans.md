@@ -7,7 +7,7 @@ permalink: terms-of-business-translation
 
 Zahra-Claire Bahrani-Peacock’s General Terms of Business for Translation, Localisation or Proofreading Work.
 
-By accepting the quote verbally, in writing or through payment, you agree to the following Terms of Business as displayed in the document held by Zahra Claire Bahrani Peacock.
+By accepting the quote verbally, in writing or through payment, you agree to the following Terms of Business as displayed in the document held by Zahra-Claire Bahrani-Peacock.
 
 **1. Definitions and Interpretation**
    1. Definitions  
@@ -40,7 +40,7 @@ By accepting the quote verbally, in writing or through payment, you agree to the
 
       Clause headings are provided for convenience of reading only and shall be ignored for the purposes of ascertaining meaning.  
 
-      A reference to a statute or statutory provision is a reference to it as amended, extended or re- enacted from time to time.  
+      A reference to a statute or statutory provision is a reference to it as amended, extended or re-enacted from time to time.  
 
       References to a “Party” or the “Parties” means the parties to this Agreement. Such Parties may be natural or legal persons, including, for example, private individuals, associations, partnerships, economic interest groupings or corporate entities.  
 
@@ -49,7 +49,7 @@ By accepting the quote verbally, in writing or through payment, you agree to the
 **2. Copyright in Source Material, and Translation Rights**
    1. The Translator accepts a Translation Task from the Client on the understanding that performance of the Translation Task will not infringe any Third Party rights. Accordingly the Client warrants to the Translator that:
       - the Client has full right and authority to enter into this Agreement, having acquired the right and licence to translate and publish the Source Material; and
-      - the Source Material does not infringe the copyright or any other right of any person;  
+      - the Source Material does not infringe the copyright or any other right of any person.
 
    2. The Client shall indemnify the Translator against any loss, injury or damage (including legal costs and expenses and compensation paid by the Translator to compromise or settle any claim) which the Translator suffers as a consequence of any breach or alleged breach of any of the above warranties or as a consequence of any claim that the Source Material contains anything objectionable, libellous, blasphemous or obscene or which constitutes an infringement of copyright or of any other rights of any Third Party.
 
@@ -97,7 +97,7 @@ By accepting the quote verbally, in writing or through payment, you agree to the
 
    4. Where delivery is in instalments and notice has been given that an interim payment is overdue, the Translator shall have the right to stop working on the Translation Task at hand until the outstanding payment is made or other terms agreed.
 
-   5. Any payment that is not made before the due date shall bear interest at the rate of three per cent (3%) above the base rate of our bank from time to time calculated on a daily basis from the date when such payment fell due until the date of payment.
+   5. Any payment that is not made before the due date shall bear interest at the rate of three per cent (3%) above the base rate of my bank from time to time calculated on a daily basis from the date when such payment fell due until the date of payment.
 
    6. This action shall be without prejudice to any sums due and without any liability whatsoever to the Client or any Third Party.
 
@@ -110,7 +110,7 @@ By accepting the quote verbally, in writing or through payment, you agree to the
 
    4. Copyright in any completed or residual part of a Translation shall remain the property of the Translator, and the conditions applicable to assignment of copyright and the grant of a licence to publish such Translation shall be as specified above.
 
-   5. Where the Translator retains the copyright, unless otherwise agreed in writing, any published text of the Translation shall carry the following statement: "© English Text Zahra-Claire Bahrani-Peacock (Year Date)" as appropriate to the particular case.
+   5. Where the Translator retains the copyright, unless otherwise agreed in writing, any published text of the Translation shall carry the following statement: "© English Text Zahra-Claire Bahrani-Peacock (Year date)" as appropriate to the particular case.
 
    6. Where the Translator assigns the copyright to the Translation and the Translation is subsequently printed for distribution, the Client shall acknowledge the Translator’s work in the same weight and style of type as used for acknowledgement of the printer and/or others involved in production of the finished document, by the following statement: "English Translation by Zahra-Claire Bahrani-Peacock”, as appropriate to the particular case.
 
@@ -152,14 +152,15 @@ By accepting the quote verbally, in writing or through payment, you agree to the
    1. Failure by the Translator to meet agreed order requirements or to provide a Translation which is fit for its stated purpose shall entitle the Client to:
       - reduce, with the Translator’s consent, the fee payable for work done by a sum equal to the reasonable cost necessary to remedy the deficiencies, and/or
       - cancel any further instalments of work being undertaken by the Translator. Such entitlement shall only apply after the Translator has been given one opportunity to bring the work up to the required standard.
+
    2. The entitlement referred to in clause 9.1, shall not apply unless the Translator has been notified in writing of all alleged defects.
 
-   3. Any complaint in connection with a Translation Task shall be notified to the Translator by the Client (or vice-versa) within one month of the date of delivery of the Translation. If the Parties are unable to resolve the complaint, the matter may be referred by either Party to the Chartered Institute of Arbitrators. Such referral shall be made no later than two months from the date on which the original complaint was made.
+   3. Any complaint in connection with a Translation Task shall be notified to the Translator by the Client (or vice-versa) within one month of the date of delivery of the Translation. If the Parties are unable to resolve the complaint, the matter may be referred by either Party to an alternative dispute resolution actuary. Such referral shall be made no later than two months from the date on which the original complaint was made.
 
-   4. If a dispute cannot be resolved amicably between the Parties, or if either Party refuses to accept arbitration, the Parties shall be subject to the exclusive jurisdiction of the Courts of England and Wales. In any event this Agreement shall be construed in accordance with English law.
+   4. If a dispute cannot be resolved amicably between the Parties, or if either Party refuses to accept arbitration, the Parties shall be subject to the exclusive jurisdiction of the Courts of Spain. In any event this Agreement shall be construed in accordance with Spanish law.
 
 **10. Responsibility and Liability**
-   1. The Translation Task shall be carried out by the Translator using reasonable skill and care and in accordance with the provisions and spirit of the Code of Professional Conduct of the Institute of Translation and Interpreting.
+   1. The Translation Task shall be carried out by the Translator using reasonable skill and care and in accordance with the provisions and spirit of the German Federal Association of Interpreters and Translators (Bundesverband der Dolmetscher und Übersetzer e.V., BDÜ).
 
    2. Time and expense permitting, the Translator shall use his or her reasonable commercial endeavours to do the work to the best of his or her ability, knowledge and belief, and consulting such authorities as are reasonably available to him/her at the time.
 
