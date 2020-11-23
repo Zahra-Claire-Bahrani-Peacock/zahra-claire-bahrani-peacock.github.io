@@ -187,7 +187,7 @@ By accepting the quote verbally, in writing or through payment, you agree to the
 **12. Applicability and Integrity**
    1. This Agreement shall come into effect either when the Client commences delivery of the Source Material; or when the Translator provides any services under the Agreement, whichever is the earlier.
 
-   2. This Agreement should be read in conjunction with the Code of Professional Conduct of the Institute of Translation and Interpreting.
+   2. This Agreement should be read in conjunction with the Code of Professional Conduct of the German Federal Association of Interpreters and Translators (Bundesverband der Dolmetscher und Übersetzer e.V., BDÜ), of which the Interpreter is a member.
 
    3. This Agreement may be subject to any detailed requirements or variants expressly specified in the order relating to a particular Translation Task.
 
