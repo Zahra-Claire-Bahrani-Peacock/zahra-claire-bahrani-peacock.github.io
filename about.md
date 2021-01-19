@@ -22,6 +22,8 @@ I now offer interpreting, translation, proofreading and website localisation ser
 <br/>
 <b>Member of the German translators and interpreters association</b> <a href="https://bdue.de/en/bdue/" target="_blank">BDÜ</a> (in turn a member of the <a href="https://www.fit-ift.org/" target="_blank">FIT</a>)  
 <br/>
+<b>Member of</b> <a href="https://asetrad.org/inicio" target="_blank">Asetrad</a> (also a member of the <a href="https://www.fit-ift.org/" target="_blank">FIT</a>)  
+<br/>
 <b>Appointed as court translator and interpreter for English and German (Regional Court of Munich&nbsp;I):</b> 2020  
 <br/>
 <b>Graduated from Munich’s Municipal Foreign Languages Institute (FIM)</b>  
