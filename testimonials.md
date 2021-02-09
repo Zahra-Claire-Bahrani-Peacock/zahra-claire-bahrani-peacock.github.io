@@ -13,7 +13,7 @@ permalink: testimonials
 <br/>
 [...] Gerne wende ich mich wieder an Frau Bahrani-Peacock, wenn ich wieder einen Übersetzungsauftrag habe. Ich kann Sie bestens weiterempfehlen.“</div>  
 <br/>
-<div align="right"><i>Eine Kundin</i></div>
+<div align="right"><i>S.</i></div>
 <br/>
 <br/>
 <br/>
@@ -26,7 +26,7 @@ Ingesamt hohe Qualität zu einem angemessen Preis.
 <br/>
 Auch meine Gedichte für mein Kunstbuch hat sie einfühlsam und passend zum Inhalt ins Englische übersetzt.“</div>  
 <br/>
-<div align="right"><i>Eine Kundin</i></div>
+<div align="right"><i>H.</i></div>
 <br/>
 <br/>
 <br/>
@@ -38,5 +38,5 @@ Además de su cualidad analítica, Zahra siempre cumplió con los plazos, siempr
 <br/>
 Por todo esto, no tengo ninguna duda en recomendar a Zahra para llevar a cabo un trabajo excelente en la traducción del español al inglés."</div>  
 <br/>
-<div align="right"><i>Efecto Colibrí</i></div>
+<div align="right"><i>A. - Efecto Colibrí</i></div>
 
