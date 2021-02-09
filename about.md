@@ -18,7 +18,7 @@ After completing the course in 2018 and moving to Spain, I spent nine months at 
 I now offer interpreting, translation, proofreading and website localisation services to SMEs as well as agencies and private individuals. Send me a message or give me a call and tell me about your project and what you need.    
 <br/>
 <br/>
-<b>Fields of particular interest:</b> economics, business, agriculture, food, travel & tourism, equine industry, pet care, art & theatre, law (general)   
+<b>Fields of particular interest:</b> economics, marketing, e-commerce, travel & tourism, food, art, equine industry, law (general)   
 <br/>
 <b>Member of the German translators and interpreters association</b> <a href="https://bdue.de/en/bdue/" target="_blank">BDÜ</a> (in turn a member of the <a href="https://www.fit-ift.org/" target="_blank">FIT</a>)  
 <br/>
