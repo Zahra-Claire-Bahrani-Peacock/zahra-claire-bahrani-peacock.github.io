@@ -11,7 +11,7 @@ Hi there and welcome to my website.
 <br/>
 My name is Zahra-Claire Bahrani-Peacock. I offer translation, proofreading, interpreting and localization services to SMEs, agencies and private individuals. Send me a message or give me a call and tell me about your project and what you need.    
 <br/>
-A little bit about me:
+A little bit about me:    
 <br/>
 I grew up bilingual in the UK with English and German, spending extended periods each year in Germany and Spain. As intercultural communication has always played such an important role in my life, I decided to move to Germany in 2015 to study translation and interpreting with a focus on economics at Munich’s Municipal Foreign Languages Institute.     
 <br/>
