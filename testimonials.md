@@ -1,10 +1,22 @@
 ---
 layout: page
-title: Testimonials
+title: Testimonials & References
 permalink: testimonials
 ---
 <br/>
-<b>This page is still under construction, please excuse any inconvenience this may cause.</b>
+<b>See what others have to say.</b>
+<br/>
+<br/>
+<br/>
+<div align="center">„[...] Since joining [us] in February, 2020, Zahra has contributed more than two dozen flawless translations
+which capture complicated political and social commentary in sophisticated and accessible English.  
+<br/>
+<br/>
+[...] Editors who reviewed Zahra’s translations are unanimous in their high praise for her work. The assistant
+senior editor in charge of testing considers Zahra a genuinely strong and gifted translator with an
+exceptional grasp of writing and language.“</div>  
+<br/>
+<div align="right"><i>K.</i></div>
 <br/>
 <br/>
 <br/>
