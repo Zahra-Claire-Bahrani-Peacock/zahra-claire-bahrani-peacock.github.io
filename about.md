@@ -13,11 +13,11 @@ My name is Zahra-Claire Bahrani-Peacock. I offer translation, proofreading, inte
 <br/>
 A little bit about me:    
 <br/>
-I grew up bilingual in the UK with English and German, spending extended periods each year in Germany and Spain. As intercultural communication has always played such an important role in my life, I decided to move to Germany in 2015 to study translation and interpreting with a focus on economics at Munich’s Municipal Foreign Languages Institute.     
+Growing up bilingual in the UK with English and German and spending extended periods each year in Germany and Spain, intercultural communication has always played an important role in my life. It is for this reason that I decided to move to Germany in 2015 to study translation and interpreting with a focus on economics at Munich’s Municipal Foreign Languages Institute.     
 <br/>
 I began working part-time as a freelance translator and interpreter in 2017, working on various projects such as a website, business correspondence, poems and presentations.    
 <br/>
-After completing the course in 2018 and moving to Spain, I spent nine months at an agency in Malaga as their in-house translator, proofreader and translation project manager for English and German, whilst continuing to work part-time as a translator. It was in 2019 that I decided to dedicate myself full-time to my own translation and interpreting business.      
+After completing the course in 2018 and moving to Spain, I spent nine months at a translation agency in Malaga as their in-house translator, proofreader and translation project manager for English and German, whilst continuing to work part-time as a freelancer. It was in 2019 that I decided to dedicate myself full-time to my own translation and interpreting business.      
 <br/>
 <br/>
 <b>Fields of particular interest:</b> marketing, e-commerce, economics, travel & tourism, food, art, equine industry, law (general)   
