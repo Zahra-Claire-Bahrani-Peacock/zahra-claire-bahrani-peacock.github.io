@@ -20,7 +20,7 @@ I began working part-time as a freelance translator and interpreter in 2017, wor
 After completing the course in 2018 and moving to Spain, I spent nine months at a translation agency in Malaga as their in-house translator, proofreader and translation project manager for English and German, whilst continuing to work part-time as a freelancer. It was in 2019 that I decided to dedicate myself full-time to my own translation and interpreting business.      
 <br/>
 <br/>
-<b>Fields of particular interest:</b> marketing, e-commerce, economics, travel & tourism, food, art, equine industry, law (general)   
+<b>Fields of particular interest:</b> marketing, e-commerce, economics, travel & tourism, equine industry, food, art, law (general)   
 <br/>
 <b>Member of the German translators and interpreters association</b> <a href="https://bdue.de/en/bdue/" target="_blank">BDÜ</a> (in turn a member of the <a href="https://www.fit-ift.org/" target="_blank">FIT</a>)  
 <br/>
