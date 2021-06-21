@@ -7,7 +7,7 @@ permalink: about
 > Helping people achieve their goals through effective and efficient communication in other languages.  
 
 <br/>
-</b>Translation, SEO translation * sworn translations</b>  
+<b>Translation, SEO translation & sworn translations</b>  
 <br/>
 I can help with translations from German into English and Spanish into English of text types such as websites, product descriptions and other marketing collateral, articles, academic papers and company documents.    
 <br/>
@@ -15,7 +15,7 @@ Should you also want these texts to be optimised in terms of SEO for Google or A
 <br/>
 As I am a sworn translator, I can also help with the translation of certificates or other legal documents that are to be presented in Germany and that require a certified translation.    
 <br/>
-</b>Proofreading</b>  
+<b>Proofreading</b>  
 <br/>
 If your workflow includes a review by a second native translator for purposes of quality assurance, wthether this is a shorter LQI, a final proofread or a full review, then do not hesitate to get in touch.    
 <br/>
@@ -23,7 +23,7 @@ If your workflow includes a review by a second native translator for purposes of
 <br/>
 I help multinational industry leaders connect with consumers to find out what they think and how they feel, so that overall marketing strategies and individual campaigns can be adapted appropriately.       
 <br/>
-Send me a message or give me a call and tell me about your project and what you need.    
+<b>Send me a message or give me a call and tell me about your project and what you need.</b>    
 <br/>
 A little about me:    
 <br/>
