@@ -7,20 +7,34 @@ permalink: about
 > Helping people achieve their goals through effective and efficient communication in other languages.  
 
 <br/>
-Hi there and welcome to my website.  
+</b>Translation, SEO translation * sworn translations</b>  
 <br/>
-My name is Zahra-Claire Bahrani-Peacock. I offer translation, proofreading, interpreting and SEO services to SMEs, agencies and private individuals. Send me a message or give me a call and tell me about your project and what you need.    
+I can help with translations from German into English and Spanish into English of text types such as websites, product descriptions and other marketing collateral, articles, academic papers and company documents.    
 <br/>
-A little bit about me:    
+Should you also want these texts to be optimised in terms of SEO for Google or Amazon so as to increase traffic and conversion rates, just let me know.    
+<br/>
+As I am a sworn translator, I can also help with the translation of certificates or other legal documents that are to be presented in Germany and that require a certified translation.    
+<br/>
+</b>Proofreading</b>  
+<br/>
+If your workflow includes a review by a second native translator for purposes of quality assurance, wthether this is a shorter LQI, a final proofread or a full review, then do not hesitate to get in touch.    
+<br/>
+<b>Market research interpreting</b>  
+<br/>
+I help multinational industry leaders connect with consumers to find out what they think and how they feel, so that overall marketing strategies and individual campaigns can be adapted appropriately.       
+<br/>
+Send me a message or give me a call and tell me about your project and what you need.    
+<br/>
+A little about me:    
 <br/>
 Growing up bilingual in the UK with English and German and spending extended periods each year in Germany and Spain, intercultural communication has always played an important role in my life. It is for this reason that I decided to move to Germany in 2015 to study translation and interpreting with a focus on economics at Munich’s Municipal Foreign Languages Institute.     
 <br/>
 I began working part-time as a freelance translator and interpreter in 2017, working on various projects such as a website, business correspondence, poems and presentations.    
 <br/>
-After completing the course in 2018 and moving to Spain, I spent nine months at a translation agency in Malaga as their in-house translator, proofreader and translation project manager for English and German, whilst continuing to work part-time as a freelancer. It was in 2019 that I decided to dedicate myself full-time to my own translation and interpreting business.      
+After completing the course in 2018 and moving to Spain, I spent nine months at a translation agency in Malaga as their in-house translator, proofreader and translation project manager for English and German, whilst continuing to work part-time as a freelancer. It was in 2019 that I decided to dedicate myself full-time to my own translation and interpreting business.       
 <br/>
 <br/>
-<b>Fields of particular interest:</b> marketing, e-commerce, economics, travel & tourism, equine industry, food, art, law (general)   
+<b>Fields of particular interest:</b> marketing, e-commerce, market research, law, equine industry, art   
 <br/>
 <b>Member of the German translators and interpreters association</b> <a href="https://bdue.de/en/bdue/" target="_blank">BDÜ</a> (in turn a member of the <a href="https://www.fit-ift.org/" target="_blank">FIT</a>)  
 <br/>
