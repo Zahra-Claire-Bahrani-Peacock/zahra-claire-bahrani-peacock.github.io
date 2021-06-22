@@ -17,7 +17,7 @@ As I am a sworn translator, I can also help with the translation of certificates
 <br/>
 <b>Proofreading</b>  
 <br/>
-If your workflow includes a review by a second native translator for purposes of quality assurance, wthether this is a shorter LQI, a final proofread or a full review, then do not hesitate to get in touch.    
+If your workflow includes a review by a second native translator for purposes of quality assurance, whether this is a shorter LQI, a final proofread or a full review, then do not hesitate to get in touch.    
 <br/>
 <b>Market research interpreting</b>  
 <br/>
