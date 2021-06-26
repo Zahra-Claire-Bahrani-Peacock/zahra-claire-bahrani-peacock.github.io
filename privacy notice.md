@@ -3,7 +3,7 @@ layout: default
 title: Terms of Business
 permalink: privacy-notice
 ---
-**Terms of Business**  
+**Privacy Notice**  
 
 Zahra-Claire Bahrani-Peacock complies with current data protection law as regards the keeping of personal information or data.
 

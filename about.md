@@ -4,7 +4,7 @@ title: About
 permalink: about
 ---
 <br/>
-> Helping people achieve their goals through effective and efficient communication in other languages.  
+> Helping people grow their businesses through communication that flows.  
 
 <br/>
 <b>Translation, SEO translation & sworn translations</b>  

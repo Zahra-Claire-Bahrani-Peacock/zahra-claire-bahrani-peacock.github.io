@@ -4,7 +4,7 @@ title: CPD
 permalink: cpd
 ---
 <br/>
-Find out what courses and workshops I have attended and books I have read. Keeping up to date and learning continuously are key to producing quality texts.
+Find out what courses and workshops I have attended and books I have read.
 <br/>
 
 <li><a href="https://zahra-claire-bahrani-peacock.github.io/cpd-2021">2021</a></li>  

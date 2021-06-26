@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testimonials & References
+title: Testimonials
 permalink: testimonials
 ---
 <br/>
